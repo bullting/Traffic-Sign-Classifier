@@ -1,7 +1,7 @@
 # Traffic-Sign-Classifier
-Deep Learning Project: Build a Traffic Sign Recognition Classifier
-Project: Traffic Sign Classifier
-Name: Kittipong Vadhanakom
+## Deep Learning Project: Build a Traffic Sign Recognition Classifier
+### Project: Traffic Sign Classifier
+#### Name: Kittipong Vadhanakom
 
 	Summary of the data set. 
 
