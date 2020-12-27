@@ -32,7 +32,7 @@ Design and Test a Model Architecture
 
 The bar chart below illustrated the number of new data set after adding augmented images.
  
-	Model architecture
+#### Model architecture
 
 Below are the details of structure of the convolution network for each layer.
 
@@ -65,7 +65,7 @@ My final model results were:
 	* validation set accuracy of 99.3% 
 	* test set accuracy of 94.2%
 
-	Train model
+#### Train model
 
 I used Adam optimizer function for back propagation. The following parameters were used to train the model:
 
@@ -76,7 +76,7 @@ I used Adam optimizer function for back propagation. The following parameters we
 
 After running until Epoch#23, the validation accuracy rate stays around 99.2% to 99.4% which is a maximum rate.
 
-	Test a Model on New Images
+#### Test a Model on New Images
 
 1.  Below are five German traffic signs I found on the web:
  
