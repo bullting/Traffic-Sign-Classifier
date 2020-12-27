@@ -1,19 +1,19 @@
 # Traffic-Sign-Classifier
 ## Deep Learning Project: Build a Traffic Sign Recognition Classifier
 ### Project: Traffic Sign Classifier
-#### Name: Kittipong Vadhanakom
 
-	Summary of the data set. 
+
+####Summary of the data set. 
 
 As shown below, I used the numpy and pandas library to calculate summary statistics of the traffic signs data set:
 
-	The size of training set is 34,799 images.
-	The size of the validation set is 4410 images.
-	The size of test set is 12,630 images
-	The shape of a traffic sign image is (32, 32, 3)
-	The number of unique classes/labels in the data set is 43.
+The size of training set is 34,799 images.
+The size of the validation set is 4410 images.
+The size of test set is 12,630 images
+The shape of a traffic sign image is (32, 32, 3)
+The number of unique classes/labels in the data set is 43.
 
-	An exploratory visualization of the dataset.
+An exploratory visualization of the dataset.
 
 Here is an exploratory visualization of the data set. Below is sample of image for each class.
  
