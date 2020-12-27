@@ -3,7 +3,7 @@
 ### Project: Traffic Sign Classifier
 
 
-####Summary of the data set. 
+#### Summary of the data set. 
 
 As shown below, I used the numpy and pandas library to calculate summary statistics of the traffic signs data set:
 
@@ -13,13 +13,13 @@ The size of test set is 12,630 images
 The shape of a traffic sign image is (32, 32, 3)
 The number of unique classes/labels in the data set is 43.
 
-An exploratory visualization of the dataset.
+#### An exploratory visualization of the dataset.
 
 Here is an exploratory visualization of the data set. Below is sample of image for each class.
  
 The bar chart shown the number of training images for each class.
  
-	Design and Test a Model Architecture
+Design and Test a Model Architecture
 
 1.	Preprocessing image.
 
