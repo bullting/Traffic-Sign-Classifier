@@ -1,6 +1,6 @@
 # Traffic-Sign-Classifier
 ## Deep Learning Project: Build a Traffic Sign Recognition Classifier
-### Project: Traffic Sign Classifier
+
 
 
 #### Summary of the data set. 
@@ -21,7 +21,7 @@ The bar chart shown the number of training images for each class.
  
 Design and Test a Model Architecture
 
-1.	Preprocessing image.
+1. Preprocessing image.
 
 -	First, I have preprocessed the images by converting to gray scale because as I found from resource on the Internet, the result of using gray scale image is given better performance than RGB. Gray scale level also has less complexity and clear texture and edge.
 -	Second, after done some research on the web, there are many kinds of augmenting methods. I used cv2 to transform and warpAffine function to augmented training dataset which generate different edge in each the image and then appended to original training dataset. To have more additional training dataset to train would improve validation accuracy rate (The code shown in cell 5).
